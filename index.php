@@ -8,6 +8,8 @@
 <body>
     <?php
     echo "Hello World!";
+    // Check PHP Version
+    echo "<br>PHP Version: " . phpversion();
     ?>
 </body>
 </html>
