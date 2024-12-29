@@ -10,7 +10,17 @@
     <h2 style="text-align: center;">Declare a variable</h2>
     <?php
     // Starts by declaring a variable with dollar sign ($) and come with varible name
-    
+    $Num1 = 5;
+    $Num2 = 10;
+    $Sum = $Num1 + $Num2;
+    echo $Sum;
+
+
+    $randomText = "Hello Aiman!";
+    echo "<br>";
+    echo "Hi There". " " . $randomText;
+
+    var_dump("<br>". $randomText);
     ?>
 </body>
 </html>
