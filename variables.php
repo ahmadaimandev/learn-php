@@ -9,7 +9,8 @@
     <!-- Create Variables in PHP -->
     <h2 style="text-align: center;">Declare a variable</h2>
     <?php
-    // Starts by declaring a variable with dollar sign ($) and come with varible naem
+    // Starts by declaring a variable with dollar sign ($) and come with varible name
+    
     ?>
 </body>
 </html>
